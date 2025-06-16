@@ -14,9 +14,9 @@ There are several categories of questions and inside each category are easy, med
 
 | LeetCode ID | Difficulty | Problem | Done |
 | ----------- | ---------- | ------- | ---- |
-| 217 | Easy | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) |     |
+| 217 | Easy | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) |  ✅   |
 | 242 | Easy | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) |     |
-| 1 | Easy | [Two Sum](https://leetcode.com/problems/two-sum/) |     |
+| 1 | Easy | [Two Sum](https://leetcode.com/problems/two-sum/) |  ✅   |
 | 49 | Medium | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) |     |
 | 347 | Medium | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) |     |
 | 238 | Medium | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) |     |
@@ -36,7 +36,7 @@ There are several categories of questions and inside each category are easy, med
 
 | LeetCode ID | Difficulty | Problem | Done |
 | ----------- | ---------- | ------- | ---- |
-| 121 | Easy | [Best Time to Buy & Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |     |
+| 121 | Easy | [Best Time to Buy & Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |  ✅   |
 | 3 | Medium | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |     |
 | 424 | Medium | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) |     |
 | 567 | Medium | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) |     |
