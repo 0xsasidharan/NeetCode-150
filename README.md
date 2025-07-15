@@ -18,7 +18,7 @@ There are several categories of questions and inside each category are easy, med
 | 242 | Easy | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) |  ✅   |
 | 1 | Easy | [Two Sum](https://leetcode.com/problems/two-sum/) |  ✅   |
 | 49 | Medium | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) |     |
-| 347 | Medium | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) |     |
+| 347 | Medium | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) |  ✅   |
 | 238 | Medium | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) |     |
 | 36 | Medium | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) |     |
 | 271 | Medium | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) |     |
